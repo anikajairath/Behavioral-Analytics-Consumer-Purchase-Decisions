@@ -1,6 +1,6 @@
 # ⭐ Key Project for Data Analyst Portfolio
 
-# Consumer Behavioral Analytics – Evaluating Psychological Nudges in E-Commerce
+# Behavioral Analytics Study of Consumer Purchase Decisions – Evaluating Psychological Nudges in E-Commerce
 
 ⭐ **Featured Data Analytics Project** | Python • MySQL • Power BI • Behavioral Psychology • Generative AI
 
