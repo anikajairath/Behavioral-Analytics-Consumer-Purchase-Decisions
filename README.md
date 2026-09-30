@@ -34,7 +34,7 @@ To analyze consumer purchasing behavior and determine how different psychologica
 
 ### Data Analytics
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas)
 - SQL (MySQL)
 - Power BI
 - Jupyter Notebook
